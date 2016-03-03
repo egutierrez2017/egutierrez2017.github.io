@@ -4343,10 +4343,11 @@ a.list-group-item.active > .badge,
 .jumbotron h1,
 .jumbotron .h1 {
   line-height: 1;
-  color: Shadow;
+  color:#428bca;
 }
 .jumbotron p {
-  line-height: 1.4;
+  color: #blue;
+  line-height: 2.5;
 }
 .container .jumbotron {
   border-radius: 6px;
